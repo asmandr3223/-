@@ -1,0 +1,8 @@
+{
+  "name": "Remix متتبع التمارين",
+  "description": "تطبيق يومي بدون إنترنت لتتبع مراحل التمارين الرياضية وحساب السعرات الحرارية المحروقة ونسبة الإنجاز باللغة العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

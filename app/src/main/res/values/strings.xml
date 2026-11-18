@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">متتبع التمارين</string>
+    <string name="header_title">تماريني اليومية</string>
+    <string name="offline_badge">بدون إنترنت</string>
+    <string name="reset_day">إعادة ضبط اليوم</string>
+    <string name="reset_snackbar_message">تم مسح جميع الجولات لبدء يوم جديد</string>
+    <string name="undo_action">تراجع</string>
+    <string name="metric_minutes_label">الدقائق المنجزة</string>
+    <string name="metric_calories_label">السعرات المحروقة</string>
+    <string name="metric_progress_label">نسبة الإنجاز</string>
+    <string name="all_done_title">أحسنت! أتممت جدول اليوم بالكامل</string>
+    <string name="all_done_subtitle">يمكنك إعادة ضبط اليوم لاحقاً أو التبديل لجدول آخر.</string>
+    <string name="new_plan_button">+ تصميم جدول جديد</string>
+    <string name="edit_plan">تعديل الجدول</string>
+    <string name="delete_plan">حذف الجدول</string>
+    <string name="delete_plan_title">حذف الجدول</string>
+    <string name="delete_plan_message">هل تريد حذف جدول «%1$s» نهائياً؟</string>
+    <string name="confirm_delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save_plan">حفظ الجدول</string>
+    <string name="timer_title">مؤقت الجولة</string>
+    <string name="timer_start">ابدأ</string>
+    <string name="timer_pause">إيقاف</string>
+    <string name="timer_reset">إعادة</string>
+    <string name="timer_close">إغلاق</string>
+    <string name="timer_done">انتهى الوقت!</string>
+</resources>
